@@ -634,6 +634,12 @@ the "copyright" line and a pointer to where the full notice is found.
       in chest X-rays using 16-layer convolution neural network (VGG16). 
     - Comparing the efficiency of shallow modifications of the CNN architecture 
       with the original and studying the factors that affect the variations.
+    - A. P. Patil, A. Pramod, A. Harish, K. Singh and K. Purushotham, "An 
+      Approach to Image Denoising Using Autoencoders and Spatial Filters for Gaussian             Noise," 2021 11th International Conference on Cloud Computing, Data Science & 
+      Engineering (Confluence), Noida, India, 2021, pp. 454-458, 
+      doi:10.1109/Confluence51648.2021.9377166. keywords: {Gaussian noise;Pipelines;
+      Noise reduction;Computer architecture;Market research;Spatial filters;
+      Data mining;Autoencoder;Gaussian Noise;Image Denoising;Spatial Filters},
 
     Copyright (C) 2025  Keerthana Purushotham
     Contact: <keerthanap0808@gmail.com>, <keerthupuru@gmail.com>, <keep.consult@proton.me>.
