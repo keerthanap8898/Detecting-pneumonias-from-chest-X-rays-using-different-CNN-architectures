@@ -1,5 +1,5 @@
 # Image Denoising Pipeline
-    Copyright (C) 2025  Keerthana Purushotham
+    Copyright (C) 2025  Keerthana Purushotham <keep.consult@proton.me>.
     Licensed under the GNU AGPL v3. See LICENSE for details.
     ( Co-authors, just send me your latest email, I'll update it then. )
 
